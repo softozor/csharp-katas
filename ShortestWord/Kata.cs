@@ -17,6 +17,7 @@ namespace ShortestWord
 
     public static int FindShort(string s)
     {
+      // turns out there is a much cleaner solution with Linq
       var separators = new char[] { SPACE };
       var words = s.Split(separators);
       Array.Sort(words, CompareStringsBySize);
