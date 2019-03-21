@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpKatas", "CSharpKatas\CSharpKatas.csproj", "{FADAB9C6-76C1-4951-A82B-3AC2A9F18031}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpKatas", "CSharpKatas\CSharpKatas.csproj", "{FADAB9C6-76C1-4951-A82B-3AC2A9F18031}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortestWord", "ShortestWord\ShortestWord.csproj", "{11C0A16B-54A8-4DDB-860B-F04D287F74D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Katas", "Katas\Katas.csproj", "{11C0A16B-54A8-4DDB-860B-F04D287F74D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortestWordTests", "ShortestWordTests\ShortestWordTests.csproj", "{CAB89DC0-2144-4131-80FE-D0A1BD6C5227}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KataTests", "KataTests\KataTests.csproj", "{CAB89DC0-2144-4131-80FE-D0A1BD6C5227}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
